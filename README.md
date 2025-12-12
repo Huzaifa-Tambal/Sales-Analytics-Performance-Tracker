@@ -1,7 +1,7 @@
 # 📊 Sales-Analytics-Performance-Tracker (Power BI)
 *A full end-to-end analytical solution for revenue insights, sales optimization, and strategic decision-making.*
 
-  you can intract & explore the the project [here](https://app.powerbi.com/view?r=eyJrIjoiM2FlN2VmNDMtMDc3YS00MDRjLWIzNmQtMzdjZDQwNmJiN2VlIiwidCI6IjU2NDM4N2U5LWNmMTEtNDI3Yy1hNmY3LTcxZGU2MWFlZTQxNyJ9) 
+  you can explore the project [here](https://app.powerbi.com/view?r=eyJrIjoiM2FlN2VmNDMtMDc3YS00MDRjLWIzNmQtMzdjZDQwNmJiN2VlIiwidCI6IjU2NDM4N2U5LWNmMTEtNDI3Yy1hNmY3LTcxZGU2MWFlZTQxNyJ9) 
 
 <img width="1060" height="798" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/e32633a8-db5f-4301-af77-cca1f6d8f6eb" />
 
