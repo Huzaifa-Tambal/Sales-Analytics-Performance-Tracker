@@ -1,4 +1,4 @@
-# 📊 Sales-Analytics-Performance-Tracker (Power BI)
+#  Sales-Analytics-Performance-Tracker (Power BI)
 *A full end-to-end analytical solution for revenue insights, sales optimization, and strategic decision-making.*
 
   you can explore the project [here](https://app.powerbi.com/view?r=eyJrIjoiM2FlN2VmNDMtMDc3YS00MDRjLWIzNmQtMzdjZDQwNmJiN2VlIiwidCI6IjU2NDM4N2U5LWNmMTEtNDI3Yy1hNmY3LTcxZGU2MWFlZTQxNyJ9) 
@@ -7,9 +7,9 @@
 
 ---
 
-## 📌 **Project Background**
+##  **Project Background**
 
-A mid-sized **mechanical equipment supplier** operating across five regions (South, Central, North, West, East) has experienced rapid expansion over the last two years. With a diverse product portfolio **Crane, Excavator, Bulldozer, Loader, and Generator**, the company serves **Individual customers, Distributors, and Corporate clients**.
+A mid sized **mechanical equipment supplier** operating across five regions (South, Central, North, West, East) has experienced rapid expansion over the last two years. With a diverse product portfolio **Crane, Excavator, Bulldozer, Loader, and Generator**, the company serves **Individual customers, Distributors, and Corporate clients**.
 
 As sales volume surpassed **10,000 transactions**, leadership faced several challenges:
 
@@ -25,7 +25,7 @@ This project delivers a complete Power BI solution that transforms raw data into
 
 ---
 
-## 🎯 **Key Business Questions**
+##  **Key Business Questions**
 
 The dashboard addresses the following questions:
 
@@ -39,38 +39,38 @@ The dashboard addresses the following questions:
 
 Key Insights (Summary)
 
-1️⃣ YoY Growth
+1. YoY Growth
 
 The business achieved 50% year-over-year revenue growth, indicating strong market expansion.
 
-2️⃣ Customer Type Contribution
+2. Customer Type Contribution
 
 Revenue is evenly distributed across Individual (33%), Distributor (34%), and Corporate (33%).
 
 A balanced portfolio reduces dependency risk.
 
-3️⃣ Regional Revenue
+3. Regional Revenue
 
 South region leads in total revenue, followed closely by Central, North, West, and East.
 
 No single region dominates → wide, diversified performance.
 
-4️⃣ Product Contribution
+4. Product Contribution
 
-High-value products (Crane, Excavator, Bulldozer) lead revenue.
+High value products (Crane, Excavator, Bulldozer) lead revenue.
 
 Loader and Generator achieve similar unit volume but lower revenue due to pricing.
 
-5️⃣ Sales Rep Performance Variance
+5. Sales Rep Performance Variance
 
-Some high-volume reps underperform against target, while lower-volume reps exceed expectations.
+Some high volume reps underperform against target, while lower-volume reps exceed expectations.
 
-Misalignment indicates flaws in target-setting methodology.
+Misalignment indicates flaws in target setting methodology.
 
 ---
 
 
-## 🧠 **Insights & Recommendations**
+##  **Insights & Recommendations**
 
 | **Metrics**                           | **Insight**                                                                                                                                               | **Recommendation**                                                                                                                                                               |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,11 +78,11 @@ Misalignment indicates flaws in target-setting methodology.
 | **Customer Type Contribution**     | Revenue is evenly distributed across Individual (33.06%), Distributor (33.67%), and Corporate (33.27%), minimizing dependency risk.                       | **Maintain Balanced Segmentation.** Strengthen retention strategies for each segment and design targeted campaigns to boost average revenue per customer type.                   |
 | **Regional Revenue Contribution**  | Revenue is well-distributed, with South leading (1.89B) but Central, North, West, and East close behind. No region dominates → diversified performance.   | **Optimize Regional Strategies.** Identify best-performing tactics in South and replicate them across other regions to increase consistency and unlock additional growth.        |
 | **Product Contribution**           | Crane, Excavator, and Bulldozer generate the highest revenue. Loader and Generator have similar unit volume but lower revenue due to pricing differences. | **Optimize Pricing & Stock Levels.** Maintain 99% stock availability for top products. Introduce pricing reviews or bundle strategies to lift revenue from Loader and Generator. |
-| **Sales Rep Performance Variance** | Target performance is misaligned: some high-revenue reps are missing targets while lower-revenue reps exceed theirs.                                      | **Recalibrate Targets & Incentives.** Audit target-setting processes and design fair, performance-based KPIs to improve motivation and accuracy.                                 |
+| **Sales Rep Performance Variance** | Target performance is misaligned: some high revenue reps are missing targets while lower-revenue reps exceed theirs.                                      | **Recalibrate Targets & Incentives.** Audit target-setting processes and design fair, performance-based KPIs to improve motivation and accuracy.                                 |
 
 
 
-## 🧩 **Data Model Overview**
+##  **Data Model Overview**
 
 <img width="1185" height="744" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/df2225a5-201f-446f-bae6-8c6b20b90794" />
 
